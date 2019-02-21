@@ -2,7 +2,7 @@
 
 
 
-# Library Carpentry (URL: https://librarycarpentry.org/)
+## Library Carpentry (URL: https://librarycarpentry.org/)
 Library Carpentry razvija radionice koje su namijenjene za osobe koje rade u knjižničnim i informacijskim ulogama. Nastoje osposobiti druge za učinkovite, djelotvorne i ponovljive prakse podataka i softvera. Vještine kojima ih nastoje osposobiti su:
 •	Savladati termine relevantne za razvoj softvera i obradu podataka kako bi ih mogli primjenjivati unutar knjižnica
 •	Identificirati i primjenjivati najbolju praksu za strukturiranje podataka
@@ -18,7 +18,7 @@ OpenRefine je moćan alat koji služi za rad s neurednim podacima. Dakle, može 
 SQL (Structured Query Language)  je moćan programski jezik koji služi za  izradu, traženje, ažuriranje i brisanje podataka iz relacijskih baza podataka. SQL je optimiziran za rukovanje velikim količinama podataka i standardiziran je preko standarda ANSI i ISO. On može biti vrlo koristan knjižničarima za izravno slanje upita unutar baza podataka bez ograničenja.
 Web scraping (''web struganje'') je tehnika za vađenje informacija s web stranica. On nam omogućuje da pretvorimo ne-tablične ili slabo strukturirane podatke u upotrebljiv i strukturiran format, kao što je .csv datoteka ili proračunska tablica. ''Struganje'' nam može pomoći da dobijemo one podatke koji se na prvu čine nedostupnima na webu. Posjeduje li neka informacijska ustanova vlastitu stranicu, pomoću Web scrapinga može obrađivati web-stranicu te  na web-stranici dohvaćati i vaditi podatke iz nje.
 
-# Data Carpentry (URL: https://datacarpentry.org/)
+## Data Carpentry (URL: https://datacarpentry.org/)
 Data Carpentry razvija i podučava radionice o temeljnim vještinama podataka potrebnim za provođenje istraživanja. Nastoje  pružiti istraživačima visokokvalitetnu obuku koja pokriva cijeli životni ciklus istraživanja temeljenih na podacima.
 
 Njihove lekcije usmjerene su na podučavanje sljedećih polja znanja:
@@ -32,7 +32,7 @@ Njihove lekcije usmjerene su na podučavanje sljedećih polja znanja:
 4.	Radionice za geoprostorne podatke usredotočena je se na rad s geoprostornim podacima odnosno upravljanje i razumijevanje formata prostornih podataka, razumijevanje koordinatnih referentnih sustava i rad s rasterskim i vektorskim podacima u R-u za analizu i vizualizaciju.
 Python je programski jezik opće namjene koji podržava brz razvoj aplikacija za analizu podataka. Riječ "Python" koristi se za upućivanje na programski jezik i alat koji izvršava skripte napisane na Python jeziku. Po automatskoj memorijskoj alokaciji, Python je sličan programskim jezicima kao što su Perl, Ruby, Smalltalk itd. On pruža konstrukte koji omogućuju jasno programiranje na malim i velikim razmjerima. Pomoću njega se izrađuju programi koji olakšavaju i ubrzavaju uobičajene funkcije.
 
-# Software Carpentry (URL: https://software-carpentry.org/)
+## Software Carpentry (URL: https://software-carpentry.org/)
 Software Carpentry (1998-.) stranica podučava istraživače računalnim vještinama koje su im potrebne da bi se postigla što veća učinkovitost u  što manje vremena i uz manje boli. Nagrađivani  i educirani instruktori podučavaju istraživače o trima osnovnim temama: Unix ljuska, programski jezik (Python ili R) i  kontrola verzija s Git-om. Nude se i dodatne korisne lekcije programiranja koje obuhvaćaju programiranje pomoću GAP-a, MATLAB-a SQL-a… 
 
 MATLAB vlasnički programski jezik visoke razine koji je razvio MathWorks i predstavlja interaktivnu okolinu za numeričko i matrično računanje. On omogućuje nam da vidimo kako različiti algoritmi rade s našim podacima, manipulaciju matricama, crtanje funkcija i podataka, implementaciju algoritama, stvaranje korisničkih sučelja i povezivanje s programima pisanim na drugim jezicima, uključujući C, C ++, C #, Java, Fortran i Python.
